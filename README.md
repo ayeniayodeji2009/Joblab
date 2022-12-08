@@ -1,1 +1,1 @@
-## ALX project for job listings in Nigeria
+## ALX project for job listings in Nigeria.
