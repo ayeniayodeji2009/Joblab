@@ -37,7 +37,7 @@ export default function About(){
       </div>
 
       <div class="about_features_point">
-      <img src="https://www.nepad.org/sites/default/files/styles/485_350/public/resourceimage/1.1_image.jpg?itok=7_Ae5Gvk" width="50%" />
+      <img src="https://th.bing.com/th/id/OIP.MVrsGxThdM4euu6TE0zkKwAAAA?pid=ImgDet&rs=1" width="50%" />
       <h2>Support</h2>
       <p>Adequate and prompt service is also added to the value you our dear customers stand to enjoy any day, any time.</p>
         </div>
